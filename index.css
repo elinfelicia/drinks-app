@@ -1,0 +1,50 @@
+#app {
+    max-width: 300px;
+    margin: auto
+}
+
+body {
+    background-image: url("Drink.gif");
+    background-color: #3D2B6B;
+    background-repeat: no-repeat;
+    background-size: 400px;
+    background-position: center;
+    font-family: Cambria, Cochin, Georgia, Times, Times New Roman, serif;
+    font-weight: bold;
+    text-align: center;
+    color: white;
+    text-shadow: 1px 1px 1px black;
+}
+
+h1 {
+    margin-top: 110px;
+    margin-bottom: 10px;
+}
+
+h2 {
+    font-size: 60px;
+    margin-top: 0;
+    margin-bottom: 20px;
+}
+
+button {
+    border: none;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    color: white;
+    text-shadow: 1px 1px 1px black;
+    font-weight: bold;
+    width: 200px;
+    margin-bottom: 5px;
+    border-radius: 20px;
+    opacity: 90%
+}
+
+#increment-btn {
+    background: #FBC2FB;
+}
+
+#save-btn {
+    background: #83FFD2;
+}
+
