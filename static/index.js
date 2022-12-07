@@ -14,7 +14,7 @@ function save(){
     count = 0
 }
 
-document.getElementById("incement-btn").addEventListener("click", function() {
+document.getElementById("increment-btn").addEventListener("click", function() {
     count += 1
     countEl.textContent = count
 })
